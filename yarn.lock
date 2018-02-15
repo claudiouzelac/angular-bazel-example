@@ -75,8 +75,8 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.84.tgz#193ffe5a9f42864d425ffd9739d95b753c6a1eab"
 
 "@types/node@^6.0.46":
-  version "6.0.97"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.97.tgz#72199848e8f3cfa975864031ac12e0ef6ccfe054"
+  version "6.0.96"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.96.tgz#7bf0bf40d6ce51e93762cc47d010c8cc5ebb2179"
 
 "@types/q@^0.0.32":
   version "0.0.32"
@@ -487,8 +487,8 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
 
 ecstatic@^3.0.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/ecstatic/-/ecstatic-3.2.0.tgz#1b1aee1ca7c6b99cfb5cf6c9b26b481b90c4409f"
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/ecstatic/-/ecstatic-3.1.1.tgz#2564aa9dde84179dcaf926a9e6d12df13a0b666d"
   dependencies:
     he "^1.1.1"
     mime "^1.4.1"
@@ -1038,8 +1038,8 @@ lie@~3.1.0:
     immediate "~3.0.5"
 
 lodash@^4.5.1:
-  version "4.17.5"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
+  version "4.17.4"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
 micromatch@^2.1.5:
   version "2.3.11"
@@ -1737,9 +1737,9 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typescript@2.6.2:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.6.2.tgz#3c5b6fd7f6de0914269027f03c0946758f7673a4"
+typescript@2.7.2:
+  version "2.7.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.7.2.tgz#2d615a1ef4aee4f574425cdff7026edf81919836"
 
 uid-number@^0.0.6:
   version "0.0.6"
